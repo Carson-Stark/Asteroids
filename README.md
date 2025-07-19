@@ -4,6 +4,8 @@
 
 Asteroids is a modern 2D remake of the classic ATARI game, built in Unity as an educational project to teach game development fundamentals. Players control a drifting spaceship, shooting and dodging procedurally spawned asteroids while the game progressively increases in difficulty.
 
+- **Original Project Date:** November 2021
+
 ## Features
 
 - **Procedural Asteroid Spawning**  
